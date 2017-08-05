@@ -1,0 +1,5 @@
+/Users/jesseingram/Projects/JesseGameBuild/JesseGameBuild/bin/Debug/JesseGameBuild.exe
+/Users/jesseingram/Projects/JesseGameBuild/JesseGameBuild/bin/Debug/JesseGameBuild.pdb
+/Users/jesseingram/Projects/JesseGameBuild/JesseGameBuild/obj/x86/Debug/JesseGameBuild.csproj.CoreCompileInputs.cache
+/Users/jesseingram/Projects/JesseGameBuild/JesseGameBuild/obj/x86/Debug/JesseGameBuild.exe
+/Users/jesseingram/Projects/JesseGameBuild/JesseGameBuild/obj/x86/Debug/JesseGameBuild.pdb
